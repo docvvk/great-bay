@@ -1,0 +1,23 @@
+{
+  "name": "great-bay",
+  "version": "1.0.0",
+  "description": "NodeJS app like ebay to post or bid for objects",
+  "main": "great-bay.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/docvvk/great-bay.git"
+  },
+  "author": "Vivek Tina",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/docvvk/great-bay/issues"
+  },
+  "homepage": "https://github.com/docvvk/great-bay#readme",
+  "dependencies": {
+    "inquirer": "^6.1.0",
+    "mysql": "^2.16.0"
+  }
+}
